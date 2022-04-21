@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class hello {
     @RequestMapping("/xin")
     public String hello(){
-
+// 测试
         return "hello  miss 7132";
     }
 }
